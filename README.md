@@ -8,3 +8,4 @@ The Project is divided into three steps
 5) Asset class direction prediction - Classification Problem
 6) Asset class rate of return prediction - Regression Problem
 7) Comparing two problems and conclusion 
+#### Please refer poster in the folder for detailed explanation 
